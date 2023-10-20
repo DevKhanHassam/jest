@@ -5,4 +5,4 @@ This is a Jest testing module for JavaScript, designed to help you write and run
 
 # How to run the program
 
-Just go to the terminal, and write this command npm install
+Just go to the terminal, and write this command: npm install
